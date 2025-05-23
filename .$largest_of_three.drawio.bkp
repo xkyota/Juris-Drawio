@@ -1,0 +1,111 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="OTffJrebJRUQUbPiyD4s">
+    <mxGraphModel dx="1585" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-1" target="BCoDYZcOpPUP0Nus_K6A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-1" value="Main" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="365" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-2" target="BCoDYZcOpPUP0Nus_K6A-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-2" value="Enter three numbers:&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="170" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-4" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
+          <mxGeometry x="610" y="185" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-5" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-6" target="BCoDYZcOpPUP0Nus_K6A-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-6" value="num1, num2, mum2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="280" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
+          <mxGeometry x="610" y="295" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-8" value="Input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="295" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-10" target="BCoDYZcOpPUP0Nus_K6A-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-10" target="BCoDYZcOpPUP0Nus_K6A-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-10" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;num1 &amp;gt;= num2 &amp;amp;&amp;amp; num1 &amp;gt;= num3&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="450" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-12" target="BCoDYZcOpPUP0Nus_K6A-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="690" />
+              <mxPoint x="770" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-12" value="largest = num1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-15" target="BCoDYZcOpPUP0Nus_K6A-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-15" target="BCoDYZcOpPUP0Nus_K6A-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-15" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;num2 &amp;gt;= num1 &amp;amp;&amp;amp; num2 &amp;gt;= num3&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="710" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-16" target="BCoDYZcOpPUP0Nus_K6A-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="960" />
+              <mxPoint x="770" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-16" value="largest = num2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-19" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="450" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-20" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="710" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-21" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="595" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-22" target="BCoDYZcOpPUP0Nus_K6A-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-22" value="largest = num3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-24" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="855" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCoDYZcOpPUP0Nus_K6A-25" target="BCoDYZcOpPUP0Nus_K6A-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-25" value="The largest number is `largest`" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1130" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCoDYZcOpPUP0Nus_K6A-29" value="END" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

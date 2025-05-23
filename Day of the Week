@@ -1,0 +1,13 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.15 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.15">
+  <diagram name="Page-1" id="sNcDbqjw_pYAusYVt_Mp">
+    <mxGraphModel dx="957" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z3fiLp_MwWBO3-BUcPgy-1" value="&lt;span style=&quot;color: oklab(0.89908 -0.00192907 -0.0048306); font-family: &amp;quot;gg mono&amp;quot;, &amp;quot;Source Code Pro&amp;quot;, Consolas, &amp;quot;Andale Mono WT&amp;quot;, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Lucida Console&amp;quot;, &amp;quot;Lucida Sans Typewriter&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Bitstream Vera Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Nimbus Mono L&amp;quot;, Monaco, &amp;quot;Courier New&amp;quot;, Courier, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: oklab(0.296709 -0.000735492 -0.00772537);&quot;&gt; Day of the Week&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="328" y="70" width="195" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
